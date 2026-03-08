@@ -1,6 +1,6 @@
 # 💊 Pharmacy CRM - Management System
 
-> **Live Demo**: [https://pharmacy-crm-yourlink.vercel.app/](https://pharmacy-crm-yourlink.vercel.app/) (Replace with your link)
+> **Live Demo**: [Link](https://pharmacy-crm-yourlink.vercel.app/)
 
 Hey there! Thanks for checking out my submission for the Pharmacy CRM assignment. 
 
