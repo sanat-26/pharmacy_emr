@@ -1,6 +1,6 @@
 # 💊 Pharmacy CRM - Management System
 
-> **Live Demo**: [Link](https://pharmacy-crm-yourlink.vercel.app/)
+> **Live Demo**: [Link](https://pharmacy-4fxn9lsuh-ben-10s-projects-d8130195.vercel.app/)
 
 Hey there! Thanks for checking out my submission for the Pharmacy CRM assignment. 
 
